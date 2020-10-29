@@ -14,4 +14,4 @@
 
 7. Know the difference between various activation functions such as Sigmoid and Rectified Linear Units (RELU)
 
-And many more things
+And many more things.....
